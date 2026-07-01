@@ -1,0 +1,47 @@
+# AGATEX Fiber Solutions — Fiber Auxiliary Solutions
+
+> AGATEX Fiber Solutions is the fiber-auxiliary business of AGATEX Feinchemie GmbH, an independent Austrian family-owned specialty-chemicals maker founded in 1921 (fifth generation). AGATEX develops, formulates and tests spin finishes, functional finishes and process chemistry for staple fibers and filament — tuned precisely to polymer chemistry, machine park and end application. Main focus: staple fiber for nonwovens and textiles; filament (POY/FDY/DTY) is served secondarily. All finishes are developed PFAS-free and silicone-free where possible; production runs on 100% renewable energy.
+
+## Company
+- Legal entity: AGATEX Feinchemie GmbH (brand: "AGATEX Fiber Solutions")
+- Founded: 1921, Austria; independent family business, 5th generation, >80% equity ratio
+- Headquarters: Aichham 11, 4650 Edt bei Lambach, Austria
+- APAC production: AGATEX (Thailand) Co., Ltd., Prachinburi (commissioning 2026/2027); partner network in Malaysia
+- Sustainability: PFAS-free, silicone-free, biodegradable systems; predominantly plant-based raw materials; 100% renewable energy in production
+- Compliance: REACH, OEKO-TEX® Standard 100, GOTS, FDA 21 CFR, EU 10/2011
+- In-house application lab: AGATEX Innovation Center (AIC)
+- Website: https://www.agatex-fibers.com/  · Parent: https://www.agatex.at
+- Contact (fiber sales): salesfc@agatex.at · +43 (7245) 32341-0 · APAC: apac@agatex.at
+- Languages: German (default), English, Chinese
+
+## What a spin finish (fiber preparation) does
+Lubrication (fiber-fiber and fiber-metal friction), antistatic (charge dissipation), cohesion (fiber bundle/web integrity), wetting (hydrophilic or hydrophobic as required), thermal stability (no deposits on heaters/calenders/nozzles), low/clean residue, and regulatory compliance. Applied at the spin line and/or on the tow (kiss-roll, spray, finish bath).
+
+## Products (three pillars)
+### Spin Finishes & Hydrophilic Agents — LAMBAFIL®  (/spin-finishes.html)
+Fiber preparations for synthetic, natural and high-performance fibers plus durable hydrophilic agents. Examples: LAMBAFIL® PET 263, LAMBAFIL® PP2 927, LAMBAFIL® PAN 267, LAMBAFIL® W100 (wool), LAMBAFIL® HB 609 (hygiene, EDANA/INDA-compliant), LAMBAFIL® FC 147 (technical hydrophilic), LAMBAFIL® R (recycled PET, PFAS-free), LAMBAFIL® Bio (PLA).
+### Functional Finishes — LAMBAPHOB® · LAMBAFELT® · CABERTEX®  (/functional-finishes.html)
+LAMBAPHOB® hydrophobic finishing (PFAS-free, adjustable; e.g. HB 86, contact angle >90°); LAMBAFELT® antistatic (e.g. HK 4054, C500 phosphorus-free/REACH); CABERTEX® halogen-free flame retardants (FMVSS302, EN 13501); LAMBAFIL® durable hydrophilic agents.
+### Process Auxiliaries — LAMEX® · LAMBATOL®  (/process-auxiliaries.html)
+LAMEX® defoamers & deaerators for spunlace high-pressure water loops (to ~250 bar) and finishing baths — silicone and silicone-free, effective at low dosage, low residue (e.g. LAMEX® CB 33); LAMBATOL® wetting agents & emulsifiers (ionic and non-ionic; also washing auxiliaries).
+
+## Fiber types served  (/fiber-types.html)
+- Synthetic: PET, rPET, PP, PA (6/66), PAN, PE, bicomponent
+- Natural: wool, cotton, hemp, flax, jute, PLA
+- High-performance (sizing): carbon, glass (E-/C-glass), aramid, basalt
+- Filament (secondary): POY, FDY, DTY — oil pick-up (OPU) governs texturing and machine cleanliness (e.g. LAMBAFIL® PA 62)
+
+## Applications (with matched products)
+- Nonwoven Hygiene  (/app-hygiene.html) — topsheet/coverstock, wipes, medical nonwovens, diapers/incontinence → LAMBAFIL® spin finishes & hydrophilic agents, LAMEX® defoamer
+- Nonwoven Technical  (/app-technical.html) — geotextiles, automotive nonwovens, filtration, building/insulation → LAMBAFIL®, LAMBAPHOB®, LAMBAFELT®, CABERTEX®, LAMEX®
+- Nonwoven Agriculture  (/app-agriculture.html) — crop protection, mulch, seed cover, UV-stable agro nonwovens → LAMBAPHOB® (PFAS-free), LAMBAFIL®, LAMEX®
+- Textile  (/app-textile.html) — staple yarn (ring & open-end spinning), technical textiles, apparel nonwovens, composite semi-finished → LAMBAFIL® spin finishes, LAMBAFELT® antistatics, LAMBATOL®
+
+## Downstream processes
+Carding, drawing, thermobonding, spunlace (hydroentanglement), needlepunch, ring & open-end (rotor) spinning; staple production = melt spinning → drawing → crimping → cutting.
+
+## AGATEX Innovation Center (AIC)
+In-house application lab: fiber carding (fiber-fiber/fiber-metal friction, dust/contaminant quantification), lab foulard, fiber sinking time (hydrophilic/hydrophobic level), nonwoven fluid-management testing (Lister/Wetback/Run-off per EDANA), analytics (HPLC/GC, Soxhlet % o.w.f., Zwick tensile). Result: shorter development cycles, fewer trials at the customer.
+
+## Key terms
+spin finish, fiber finish, fiber lubricant, staple fiber spin finish, nonwoven fiber finish, hydrophilic finish topsheet, hydrophobic fiber finish, antistatic agent fiber, defoamer for fiber/nonwoven, wetting agent, PFAS-free spin finish, biodegradable fiber finish, carbon/glass fiber sizing, POY/FDY/DTY texturing finish, oil pick-up (OPU), % o.w.f.
