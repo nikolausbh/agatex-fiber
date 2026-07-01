@@ -19,17 +19,17 @@ Lubrication (fiber-fiber and fiber-metal friction), antistatic (charge dissipati
 
 ## Products (three pillars)
 ### Spin Finishes & Hydrophilic Agents — LAMBAFIL®  (/spin-finishes.html)
-Fiber preparations for synthetic, natural and high-performance fibers plus durable hydrophilic agents. Examples: LAMBAFIL® PET 263, LAMBAFIL® PP2 927, LAMBAFIL® PAN 267, LAMBAFIL® W100 (wool), LAMBAFIL® HB 609 (hygiene, EDANA/INDA-compliant), LAMBAFIL® FC 147 (technical hydrophilic), LAMBAFIL® R (recycled PET, PFAS-free), LAMBAFIL® Bio (PLA).
+Fiber preparations for synthetic, natural and high-performance fibers plus durable hydrophilic agents. The LAMBAFIL® series covers PET, recycled PET (rPET, PFAS-free), PP, PAN, wool and other natural fibers, PLA, durable hydrophilic finishing for hygiene topsheets (EDANA/INDA-compliant) and technical hydrophilic finishing.
 ### Functional Finishes — LAMBAPHOB® · LAMBAFELT® · CABERTEX®  (/functional-finishes.html)
-LAMBAPHOB® hydrophobic finishing (PFAS-free, adjustable; e.g. HB 86, contact angle >90°); LAMBAFELT® antistatic (e.g. HK 4054, C500 phosphorus-free/REACH); CABERTEX® halogen-free flame retardants (FMVSS302, EN 13501); LAMBAFIL® durable hydrophilic agents.
+LAMBAPHOB® hydrophobic finishing (PFAS-free, adjustable; contact angle >90°); LAMBAFELT® antistatic finishing; CABERTEX® halogen-free flame retardants (FMVSS302, EN 13501); LAMBAFIL® durable hydrophilic agents.
 ### Process Auxiliaries — LAMEX® · LAMBATOL®  (/process-auxiliaries.html)
-LAMEX® defoamers & deaerators for spunlace high-pressure water loops (to ~250 bar) and finishing baths — silicone and silicone-free, effective at low dosage, low residue (e.g. LAMEX® CB 33); LAMBATOL® wetting agents & emulsifiers (ionic and non-ionic; also washing auxiliaries).
+LAMEX® defoamers & deaerators for spunlace high-pressure water loops (to ~250 bar) and finishing baths — silicone and silicone-free, effective at low dosage, low residue; LAMBATOL® wetting agents & emulsifiers (ionic and non-ionic; also washing auxiliaries).
 
 ## Fiber types served  (/fiber-types.html)
 - Synthetic: PET, rPET, PP, PA (6/66), PAN, PE, bicomponent
 - Natural: wool, cotton, hemp, flax, jute, PLA
 - High-performance (sizing): carbon, glass (E-/C-glass), aramid, basalt
-- Filament (secondary): POY, FDY, DTY — oil pick-up (OPU) governs texturing and machine cleanliness (e.g. LAMBAFIL® PA 62)
+- Filament (secondary): POY, FDY, DTY — oil pick-up (OPU) governs texturing and machine cleanliness (LAMBAFIL® series)
 
 ## Applications (with matched products)
 - Nonwoven Hygiene  (/app-hygiene.html) — topsheet/coverstock, wipes, medical nonwovens, diapers/incontinence → LAMBAFIL® spin finishes & hydrophilic agents, LAMEX® defoamer
@@ -44,4 +44,10 @@ Carding, drawing, thermobonding, spunlace (hydroentanglement), needlepunch, ring
 In-house application lab: fiber carding (fiber-fiber/fiber-metal friction, dust/contaminant quantification), lab foulard, fiber sinking time (hydrophilic/hydrophobic level), nonwoven fluid-management testing (Lister/Wetback/Run-off per EDANA), analytics (HPLC/GC, Soxhlet % o.w.f., Zwick tensile). Result: shorter development cycles, fewer trials at the customer.
 
 ## Key terms
-spin finish, fiber finish, fiber lubricant, staple fiber spin finish, nonwoven fiber finish, hydrophilic finish topsheet, hydrophobic fiber finish, antistatic agent fiber, defoamer for fiber/nonwoven, wetting agent, PFAS-free spin finish, biodegradable fiber finish, carbon/glass fiber sizing, POY/FDY/DTY texturing finish, oil pick-up (OPU), % o.w.f.
+spin finish, fiber finish, fiber lubricant, primary/secondary spin finish, coning oil, staple fiber spin finish, nonwoven fiber finish, hydrophilic finish topsheet, durable / semi-durable / non-durable hydrophilic finish, multi-insult / strike-through / rewet (wetback) / run-off, ADL (acquisition distribution layer), coverstock, hydrophobic fiber finish, PFAS-free / fluorine-free (C0) water repellent vs. C6, antistatic agent fiber, halogen-free (P/N) flame retardant, LOI (limiting oxygen index), defoamer vs. deaerator for spunlace/nonwoven water loops, low-foam / APEO-free wetting agent, emulsifier, carbon/glass/aramid fiber sizing (silane coupling agent, film former, resin compatibility), POY/FDY/DTY texturing finish, oil pick-up (OPU), % o.w.f., biodegradable / silicone-free spin finish
+
+## Key terms — Deutsch
+Spinnpräparation, Präparationsmittel, Avivage, Faserhilfsmittel, Faseröl, Primär-/Sekundärpräparation, Spulöl/Zwirnöl, Hydrophilierungsmittel (dauerhaft/permanent), Rücknässung/Wetback, Flüssigkeitsdurchtritt, Hydrophobierung (PFAS-frei/fluorfrei), Antistatikmittel, halogenfreies Flammschutzmittel (P/N), Sauerstoffindex (LOI), Entschäumer/Entlüfter (silikonfrei, APEO-frei), Netzmittel/Benetzungsmittel, Emulgator, Faserschlichte/Schlichtemittel (Silan-Haftvermittler, Filmbildner), Faser-Metall-Reibung, Präparationsauflage
+
+## Key terms — 中文
+纺丝油剂, 化纤油剂, 短纤维油剂, 纤维油剂, 络筒油/二次上油剂, 亲水整理剂/亲水助剂 (耐久/持久), 面层/导流层(ADL)处理剂, 穿透时间/回渗, 无氟拒水剂/无PFAS拒水剂, 抗静电剂, 无卤阻燃剂(磷氮系), 极限氧指数(LOI), 消泡剂(水刺水循环)/脱泡剂, 无硅/无APEO消泡剂, 渗透剂/润湿剂, 乳化剂, 玻璃纤维浸润剂/碳纤维上浆剂/芳纶上浆剂 (硅烷偶联剂, 成膜剂), 上油率(OPU)
